@@ -4,11 +4,11 @@ macchanger tool
 mac changer tool to change mac address with the CLI
 
 Ex:
-python macchanger.py -i wlan0 -m 00:22:33:44:55:11 
+`python macchanger.py -i wlan0 -m 00:22:33:44:55:11 `
 
 you can try all the information of the tool with -- help
 
-python macchanger.py --help
+`python macchanger.py --help`
 Usage: macchanger.py [options]
 
 Options:
